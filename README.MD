@@ -1,4 +1,4 @@
-# Responsive Navigation Bar
+# Responsive Side Bar and Modal Overlay
 
 ## Desktop View
 
