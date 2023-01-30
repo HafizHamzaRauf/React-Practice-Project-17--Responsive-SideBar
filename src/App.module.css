@@ -1,0 +1,4 @@
+.show {
+  transform: translateX(-100%) !important;
+  position: absolute;
+}

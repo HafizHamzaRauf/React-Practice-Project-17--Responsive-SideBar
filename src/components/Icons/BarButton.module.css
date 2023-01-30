@@ -1,0 +1,23 @@
+@keyframes button-animation {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.5);
+  }
+}
+.animations {
+  position: fixed;
+  top: 0;
+  background-color: aliceblue;
+  left: 0;
+  padding: 2rem;
+  animation: button-animation 1s ease-in-out infinite alternate;
+}
+.btn {
+  border: none;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
